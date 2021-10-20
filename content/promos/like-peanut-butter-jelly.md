@@ -1,0 +1,11 @@
+---
+content_type: promos
+image:
+  content: ''
+  website: ocw-www
+link_title: Learn More
+link_url: https://ocw.mit.edu/courses/mitx-related-courseware/
+subtitle: Discover OCW & MITx Courses That Go Great Together
+title: Like Peanut Butter & Jelly?
+uid: 8138c81c-dda7-4904-8100-1396691e4124
+---
