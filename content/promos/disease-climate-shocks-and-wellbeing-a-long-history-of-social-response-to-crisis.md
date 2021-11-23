@@ -1,7 +1,7 @@
 ---
 content_type: promos
 image:
-  content: ''
+  content: 21670352-6bf3-4b9b-967e-251fc1d9c4d2
   website: ocw-www
 link_title: Enroll Now
 link_url: https://www.edx.org/course/disease-climate-shocks-and-wellbeing-a-long-history-of-social-response-to-crisis?utm_medium=affiliate_partner&utm_source=ocwprod-mit-opencourseware

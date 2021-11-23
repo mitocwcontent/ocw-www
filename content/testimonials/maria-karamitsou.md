@@ -1,7 +1,7 @@
 ---
 content_type: testimonials
 image:
-  content: ''
+  content: d87cf5ea-7267-4b03-bd97-686ca140c100
   website: ocw-www
 leadquote: I found lecture notes, handouts and slides from presentations, and some
   problem sets. It helped me a lot.

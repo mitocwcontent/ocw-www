@@ -1,7 +1,7 @@
 ---
 content_type: promos
 image:
-  content: ''
+  content: 6a92e2cc-91d2-4e90-bb62-952ad64e1af3
   website: ocw-www
 link_title: Learn More
 link_url: https://ocw.mit.edu/courses/mitx-related-courseware/
