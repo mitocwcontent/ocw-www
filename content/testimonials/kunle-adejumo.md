@@ -1,7 +1,7 @@
 ---
 content_type: testimonials
 image:
-  content: ''
+  content: c4b21ce2-04bb-4a15-93c6-935d5210a527
   website: ocw-www
 leadquote: Students need to know that these things are available.
 location: Nigeria
