@@ -1,14 +1,14 @@
 ---
 content_type: testimonials
 image:
-  content: ''
+  content: 3b77a850-d24c-41ad-b8ef-b636a42091f1
   website: ocw-www
 leadquote: Through OCW, I am part of a movement to help make education free and available
   to the world.
 location: United States
 name: Clinton Blackburn
 occupation: Student
-title: Clint Blackburn
+title: Clinton Blackburn
 uid: 508027f0-2071-4a59-8e9c-24b5f6783674
 ---
 In between studying for classes and working at the MIT Computing Help Desk, MIT senior Clinton Blackburn volunteers as an ambassador for OCW during his travels to Africa.
